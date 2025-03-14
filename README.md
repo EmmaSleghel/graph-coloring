@@ -1,2 +1,2 @@
 # graph-coloring
-https://arxiv.org/pdf/1903.04598
+SOTA: https://docs.google.com/document/d/1UncaAif-H6ya4D-Nx8a-GuSkAbnPc7Xa6GA4sjaN0EM
